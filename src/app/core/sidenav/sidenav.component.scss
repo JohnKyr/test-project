@@ -14,12 +14,12 @@
 
 .open {
   width: 356px;
-  overflow: visible;
+  overflow-x: visible;
 }
 
 .close {
   width: 0;
-  overflow: hidden;
+  overflow-x: hidden;
 }
 
 .sidenav a {
